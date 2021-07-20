@@ -1,0 +1,65 @@
+<!-- Activity name for this tag: Arrive On Site (Page View) -->
+<script>
+  (function() {
+    var a = String(Math.random()) * 10000000000000;
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4802811;ord='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=4802811;ord=1?' width=1 height=1 border=0>
+</noscript>
+-----------------------------------------------------------------
+
+Checkout (Dollar Amt/Qty Purchased):
+
+<!-- Activity name for this tag: Checkout (Dollar Amt/Qty Purchased) -->
+<script>
+  (function() {
+    var a = String(Math.random()) * 10000000000000;
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4802817;qty=[quantity of items purchased];cost=[revenue];ord=[order id]?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=4802817;qty=[quantity of items purchased];cost=[revenue];ord=[order id]?' width=1 height=1 border=0>
+</noscript>
+--------------------------------------------------------------
+Checkout LP (Page View):
+
+<!-- Activity name for this tag: Checkout (Page View) -->
+<script>
+  (function() {
+    var a = String(Math.random()) * 10000000000000;
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4830197;ord='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=4830197;ord=1?' width=1 height=1 border=0>
+</noscript>
+
+---------------------------------------------------------
+Visit to Checkout (Page View)
+
+<!-- Activity name for this tag: Go to Checkout (Page View) -->
+<script>
+  (function() {
+    var a = String(Math.random()) * 10000000000000;
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4802814;ord='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=4802814;ord=1?' width=1 height=1 border=0>
+</noscript>
+
+--------------------------------------------------------------
+View a Product (Page View)
+
+<!-- Activity name for this tag: View a Product (Page View) -->
+<script>
+  (function() {
+    var a = String(Math.random()) * 10000000000000;
+    new Image().src = 'https://pubads.g.doubleclick.net/activity;xsp=4815327;ord='+ a +'?';
+  })();
+</script>
+<noscript>
+  <img src='https://pubads.g.doubleclick.net/activity;xsp=4815327;ord=1?' width=1 height=1 border=0>
+</noscript>
